@@ -2,6 +2,9 @@
 
 > A simple and safe offline password manager that enables you to store all your passwords at one place on your device.
 
+## Screenshots
+<img src="https://github.com/satis-fy/Password-Saver/blob/master/Screenshots/PasscodeSetup.jpg" width="250" /> <img src="https://github.com/satis-fy/Password-Saver/blob/master/Screenshots/Passcode.jpg" width="250" />
+
 ## Features
 The application should have these features.
 - [x] Add new password.
@@ -10,7 +13,7 @@ The application should have these features.
 - [x] Set-up passcode.
 
 ## Usage
-[Click here](https://github.com/satis-fy/Password-Saver/Apk/PasswordSaver.apk) to download the Password Saver app.
+[Click here](https://github.com/satis-fy/Password-Saver/raw/master/Apk/PasswordSaver.apk) to download the Password Saver app.
 
 ## Getting Started
 
