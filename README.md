@@ -1,6 +1,16 @@
-# password_saver
+# Password Saver
 
-This app store your password
+> A simple and safe offline password manager that enables you to store all your passwords at one place on your device.
+
+## Features
+The application should have these features.
+- [x] Add new password.
+- [x] Edit password.
+- [x] Delete password.
+- [x] Set-up passcode.
+
+## Usage
+[Click here](https://github.com/satis-fy/Password-Saver/Apk/PasswordSaver.apk) to download the Password Saver app.
 
 ## Getting Started
 
