@@ -3,7 +3,11 @@
 > A simple and safe offline password manager that enables you to store all your passwords at one place on your device.
 
 ## Screenshots
-<img src="https://github.com/satis-fy/Password-Saver/blob/master/Screenshots/PasscodeSetup.jpg" width="250" /> <img src="https://github.com/satis-fy/Password-Saver/blob/master/Screenshots/Passcode.jpg" width="250" />
+<img src="https://github.com/satis-fy/Password-Saver/blob/master/Screenshots/PasscodeSetup.jpg" width="300" />      <img src="https://github.com/satis-fy/Password-Saver/blob/master/Screenshots/Passcode.jpg" width="300" />
+
+<img src="https://github.com/satis-fy/Password-Saver/blob/master/Screenshots/PasswordList.jpg" width="300" />      <img src="https://github.com/satis-fy/Password-Saver/blob/master/Screenshots/PasswordShow.jpg" width="300" />
+
+<img src="https://github.com/satis-fy/Password-Saver/blob/master/Screenshots/PasswordInsert.jpg" width="300" />      <img src="https://github.com/satis-fy/Password-Saver/blob/master/Screenshots/PasswordEdit.jpg" width="300" />
 
 ## Features
 The application should have these features.
